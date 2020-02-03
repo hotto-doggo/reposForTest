@@ -5,7 +5,9 @@ Victoria Triputina
 
 ## 2. Contacts:
 **mob. number** - + 375-44-746-88-60
+
 **email** - triputina.victoria@gmail.com
+
 **discord / telegram** - @vickymarshmallow
 
 ## 3. About me:
@@ -26,9 +28,13 @@ About a hobby: I am fond of dancing, sometimes I read fiction.
 
 ## 5. Experience in coding and examples of work:
 Below you can see my latest work and the final project from the courses:
+
 **Calculator with using of Grid and JS:** https://wviktor93.github.io/simplyCalculator/
+
 **TODO list:** https://wviktor93.github.io/simplyTODOlist/
+
 **Landing site:** https://wviktor93.github.io/simplyLandingProject/
+
 **Final project:** https://wviktor93.github.io/FINAL_PROJECT/
 
 ## 6. Education:
