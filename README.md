@@ -12,6 +12,7 @@ Victoria Triputina
 
 ## 3. About me:
 Open and friendly, diligent, I always work on the principle of "Win-Win", I can quickly negotiate.
+
 I quickly learn and grasp everything on the fly. I constantly devote time to learning something new, including for professional purposes, reading professional resources.
 About a hobby: I am fond of dancing, sometimes I read fiction.
 
@@ -39,6 +40,7 @@ Below you can see my latest work and the final project from the courses:
 
 ## 6. Education:
 **2012/2016** - International University "MITSO", Finance and Credit.
+
 **September 2019 / January 2020** - Web Development (Layout) course in HTML and CSS, JavaScript in Stormnet.
 
 ## 7. Knowledge of foreign languages:
